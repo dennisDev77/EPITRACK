@@ -5,7 +5,7 @@
 </p>
 
 # EPITRICK
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> O aplicativo será uma plataforma capaz de monitorar e rastrear surtos de doenças epidêmicas em tempo real.
 
 ## Tecnologias a utilizar
 Icones de tecnologias 
