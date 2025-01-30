@@ -8,7 +8,6 @@
 > O aplicativo será uma plataforma capaz de monitorar e rastrear surtos de doenças epidêmicas em tempo real.
 
 ## Tecnologias a utilizar
-Icones de tecnologias 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,sequelize,vite,react,tailwind)](https://skillicons.dev)
 
 
@@ -21,7 +20,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Passos para clonar:
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/dennisDev77/EPITRACK.git
 ```
 
 ```bash
@@ -58,7 +57,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="Constantino Bumba">
-        <img src="https://avatars.githubusercontent.com/u/171385425?v=4" width="100px;" alt="Foto de Constanti"/><br>
+        <img src="https://avatars.githubusercontent.com/u/171385425?v=4" width="100px;" alt="Foto de Constantino"/><br>
         <sub>
           <b>Constantino Bumba</b>
         </sub>
@@ -66,12 +65,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="Domingos Chelembo">
-
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="domingos chilemo"/><br>
+        <img src="https://avatars.githubusercontent.com/u/164555574?v=4" width="100px;" alt="domingos chilemo"/><br>
         <sub>
-          <b>Domingos Chielmbo</b>
+          <b>Domingos Chilembo</b>
         </sub>
-
       </a>
     </td>
   </tr>
