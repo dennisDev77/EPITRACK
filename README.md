@@ -11,6 +11,7 @@
 Icones de tecnologias 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,sequelize,vite,react,tailwind)](https://skillicons.dev)
 
+
 ## 💻 Pré-requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
@@ -65,10 +66,12 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="Domingos Chelembo">
+
         <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="domingos chilemo"/><br>
         <sub>
           <b>Domingos Chielmbo</b>
         </sub>
+
       </a>
     </td>
   </tr>
