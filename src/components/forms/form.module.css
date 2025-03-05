@@ -1,0 +1,10 @@
+.input{
+    padding-block:.2rem;
+    padding-inline:1rem;
+}
+button{
+    background-image:linear-gradient(to right bottom,  #1857e6, #145bee, #0e60f5, #0e60f5, #0e60f5, #0e60f5, #145bee, #1857e6, #1b52df, #1d4ed8);
+    padding-block:.4rem;
+    cursor: pointer;
+    border: 1px solid currentColor;
+}

@@ -1,11 +1,12 @@
 import React from 'react'
+import Login from './pages/Login/LoginForm'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      <h1 className=''>Nossa Home</h1>
+      <Login/>
     </>
   )
 }

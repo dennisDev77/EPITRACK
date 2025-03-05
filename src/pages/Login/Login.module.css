@@ -1,0 +1,16 @@
+section{
+    .imgLogin{
+     width:14rem
+    }
+}
+.boxWrapper{
+    padding-block: 2rem;
+    padding-inline: 1rem;
+    max-width: 50%;
+    background-image: linear-gradient(to right bottom,  #1857e6, #145bee, #0e60f5, #0e60f5, #0e60f5, #0e60f5, #145bee, #1857e6, #1b52df, #1d4ed8);
+    
+    .headTitle{
+     /* border:1px solid red; */
+    }
+}
+/* Style card */
