@@ -12,7 +12,7 @@ export default function Login(){
 
     return(
         <>
-            <main className='container flex flex-wrap justify-start items-center gap-8 pt-40'>
+            <main className='container flex flex-wrap justify-center items-center gap-8 pt-40'>
            
                
                 <section className={` bg-blue flex flex-col gap-4 text-gray-200 rounded-md ${styles.boxWrapper}`}>
@@ -51,7 +51,7 @@ export default function Login(){
                             Entrar agora
                         </Button>
                     </section>
-                </section>
+             </section>
             </main>
         </>
     )

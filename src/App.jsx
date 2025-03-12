@@ -1,14 +1,14 @@
 import React from 'react'
-import Login from './pages/Login/LoginForm'
 import './App.css'
 
-function App() {
+//import the component
+import Rota from './Rota'
+
+export default function App() {
 
   return (
     <>
-      <Login/>
+      <Rota/>
     </>
   )
 }
-
-export default App
