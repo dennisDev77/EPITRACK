@@ -8,7 +8,7 @@
 > O aplicativo será uma plataforma capaz de monitorar e rastrear surtos de doenças epidêmicas em tempo real.
 
 ## Tecnologias a utilizar
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,sequelize,vite,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vite,react,tailwind,laravel)](https://skillicons.dev)
 
 
 ## 💻 Pré-requisitos
